@@ -1,0 +1,20 @@
+{
+  "name": "apple-logo",
+  "gltf": "scene.gltf",
+  "bin": "scene.bin",
+  "textures": [],
+  "position": {
+    "x": 0,
+    "y": 3,
+    "z": -1
+  },
+  "scale": {
+    "x": 0.1,
+    "y": 0.1,
+    "z": 0.1
+  },
+  "tableNumber": 2,
+  "type": "other",
+  "price": 2000,
+  "description": ""
+}

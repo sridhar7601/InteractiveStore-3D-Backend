@@ -1,0 +1,52 @@
+{
+  "name": "iphone15",
+  "gltf": "scene.gltf",
+  "bin": "scene.bin",
+  "textures": [
+    "bCgzXjHOanGdTFV_baseColor.png",
+    "dxCVrUCvYhjVxqy_metallicRoughness.png",
+    "dxCVrUCvYhjVxqy_normal.png",
+    "eShKpuMNVJTRrgg_metallicRoughness.png",
+    "eShKpuMNVJTRrgg_normal.png",
+    "hiVunnLeAHkwGEo_baseColor.png",
+    "hiVunnLeAHkwGEo_emissive.png",
+    "hiVunnLeAHkwGEo_metallicRoughness.png",
+    "hiVunnLeAHkwGEo_normal.png",
+    "hUlRcbieVuIiOXG_metallicRoughness.png",
+    "jlzuBkUzuJqgiAK_baseColor.png",
+    "jpGaQNgTtEGkTfo_metallicRoughness.png",
+    "KSIxMqttXxxmOYl_metallicRoughness.png",
+    "kUhjpatHUvkBwfM_baseColor.jpeg",
+    "kUhjpatHUvkBwfM_metallicRoughness.png",
+    "MHFGNLrDQbTNima_baseColor.png",
+    "MHFGNLrDQbTNima_metallicRoughness.png",
+    "MHFGNLrDQbTNima_normal.png",
+    "oZRkkORNzkufnGD_metallicRoughness.png",
+    "pIhYLPqiSQOZTjn_baseColor.jpeg",
+    "pIhYLPqiSQOZTjn_metallicRoughness.png",
+    "pIhYLPqiSQOZTjn_normal.png",
+    "pIJKfZsazmcpEiU_emissive.png",
+    "RJoymvEsaIItifI_metallicRoughness.png",
+    "TBLSREBUyLMVtJa_baseColor.png",
+    "TBLSREBUyLMVtJa_metallicRoughness.png",
+    "ujsvqBWRMnqdwPx_metallicRoughness.png",
+    "xdyiJLYTYRfJffH_metallicRoughness.png",
+    "xNrofRCqOXXHVZt_baseColor.png",
+    "xNrofRCqOXXHVZt_metallicRoughness.png",
+    "yQQySPTfbEJufve_baseColor.png"
+  ],
+  "position": {
+    "x": 0,
+    "y": 1.3,
+    "z": 0
+  },
+  "scale": {
+    "x": 3,
+    "y": 3,
+    "z": 3
+  },
+  "tableNumber": 2,
+  "type": "mobile",
+  "price": 159,
+  "description": "iphone 15 is available"
+}

@@ -1,0 +1,48 @@
+{
+  "name": "iphone-14",
+  "gltf": "scene.gltf",
+  "bin": "scene.bin",
+  "textures": [
+    "BLpVAsLWNICZYGG_metallicRoughness.png",
+    "fdfRsQCrfvPBPfQ_baseColor.png",
+    "fdfRsQCrfvPBPfQ_metallicRoughness.png",
+    "FsunUcGyajFpQmW_metallicRoughness.png",
+    "GFNYbWjyDVGUwJd_emissive.png",
+    "IBtgGxCVyZhjKZM_metallicRoughness.png",
+    "IDdMwJVCyuFpUnA_baseColor.png",
+    "IDdMwJVCyuFpUnA_metallicRoughness.png",
+    "IkWzRHNnDaKQXIi_baseColor.png",
+    "jFPFAvCbiqflbQV_metallicRoughness.png",
+    "jFPFAvCbiqflbQV_normal.png",
+    "KtvhjlxyToKjYkE_metallicRoughness.png",
+    "LcWBQfBvCzxThpp_baseColor.png",
+    "LcWBQfBvCzxThpp_emissive.png",
+    "LcWBQfBvCzxThpp_metallicRoughness.png",
+    "LcWBQfBvCzxThpp_normal.png",
+    "pBMikDFQfUOsKkr_metallicRoughness.png",
+    "qEGySvwsouNnVcn_baseColor.png",
+    "qEGySvwsouNnVcn_metallicRoughness.png",
+    "qEGySvwsouNnVcn_normal.png",
+    "rNCplyWedyfORFh_metallicRoughness.png",
+    "sWxYOtHGWTcXRMx_baseColor.png",
+    "vsSJQngPxBJTVZb_baseColor.png",
+    "vsSJQngPxBJTVZb_metallicRoughness.png",
+    "vsSJQngPxBJTVZb_normal.png",
+    "WqbAhnIPgrrhfXS_metallicRoughness.png",
+    "xHgtbqndQshkTKG_metallicRoughness.png"
+  ],
+  "position": {
+    "x": 0,
+    "y": 1,
+    "z": 0
+  },
+  "scale": {
+    "x": 3,
+    "y": 3,
+    "z": 3
+  },
+  "tableNumber": 3,
+  "type": "mobile",
+  "price": 150,
+  "description": "this is iphone "
+}

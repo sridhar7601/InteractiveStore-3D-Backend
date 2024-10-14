@@ -1,0 +1,47 @@
+{
+  "name": "dummy",
+  "gltf": "scene.gltf",
+  "bin": "scene.bin",
+  "textures": [
+    "AGtKlWnOInmqNQI_metallicRoughness.png",
+    "boERCOkfaeYKPmb_emissive.jpeg",
+    "edhWAPEBZsqCLTg_normal.png",
+    "edYkGGAdRWeopLP_emissive.jpeg",
+    "FsJfKVbzNLXJeBa_baseColor.jpeg",
+    "FsJfKVbzNLXJeBa_normal.png",
+    "GvXrALMIeaGmIJo_metallicRoughness.png",
+    "GXPSJdzybTrBefY_normal.png",
+    "IvaXKlaVZetAvuj_baseColor.jpeg",
+    "IvaXKlaVZetAvuj_emissive.jpeg",
+    "IvaXKlaVZetAvuj_metallicRoughness.png",
+    "IvaXKlaVZetAvuj_normal.png",
+    "JSFaTttTQosHtdR_baseColor.png",
+    "lgIBGhMXHpTEcfq_baseColor.png",
+    "LMTUXYhSYYJrnsy_0_normal.png",
+    "sTxeXXVKohXeDJU_baseColor.png",
+    "sTxeXXVKohXeDJU_metallicRoughness.png",
+    "sTxeXXVKohXeDJU_normal.png",
+    "troyYZUIqRYbiDX_baseColor.png",
+    "troyYZUIqRYbiDX_normal.png",
+    "VJcIxaYCeMHzzAJ_normal.png",
+    "yKAKXxwHUkGVYpC_baseColor.png",
+    "YtajTVWccmKRZBL_metallicRoughness.png",
+    "yXTwmSCvToGuMDP_baseColor.png",
+    "yXTwmSCvToGuMDP_metallicRoughness.png",
+    "yXTwmSCvToGuMDP_normal.png"
+  ],
+  "position": {
+    "x": 0,
+    "y": 1,
+    "z": 0
+  },
+  "scale": {
+    "x": 1,
+    "y": 1,
+    "z": 1
+  },
+  "tableNumber": 8,
+  "type": "watch",
+  "price": 200,
+  "description": "watch"
+}
